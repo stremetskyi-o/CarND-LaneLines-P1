@@ -82,3 +82,10 @@ fabric.properties
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/pycharm
+
+# Image cache for macOS and Windows
+.DS_Store
+Thumbs.db
+
+# Project output folders
+*_output/
